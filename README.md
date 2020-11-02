@@ -8,5 +8,10 @@ Used flexbox, relative & absolute positioning. Designed for desktop devices.
 
 ## Live Demo
 
-[Live Demo Link](https://ptrcktylr.github.io/nytimes-article-clone/)
+[Link to demo](https://ptrcktylr.github.io/nytimes-article-clone/)
+
+
+![preview](/images/preview.png)
+
+
 
